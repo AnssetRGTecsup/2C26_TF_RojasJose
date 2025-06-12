@@ -4,7 +4,7 @@ using System.Collections;
 
 public class SimpleManagerDatabase : MonoBehaviour
 {
-    private readonly string SERVER_URL = "localhost:80/unitydatabase/";
+    private readonly string SERVER_URL = "localhost:80/tf_rojasjose/";
     private readonly string CREATE_PHP = "TablesManagers/CreateTableUsers.php";
     private readonly string DROP_PHP = "TablesManagers/DropTableUser.php"; 
 
